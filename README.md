@@ -1,0 +1,1 @@
+# gumac_shop
