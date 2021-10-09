@@ -704,7 +704,7 @@ body {
 
 }
 /* Mobile */
-@media (min-width: 375px) {
+@media (max-width: 375px) {
     .header--container {
         width: 350px;
         display: block;
